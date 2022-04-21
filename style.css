@@ -1,0 +1,113 @@
+
+
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: lightskyblue;
+    border-radius: 10px;
+    height: 50px;
+    padding-top: 10px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+h2 {
+    margin-bottom: 0px;
+    color: lightskyblue;
+    text-align: left;
+}
+
+h3 {
+    margin-bottom: 0px;
+    color: lightskyblue;
+    text-align: left;
+}
+
+h4 {
+    margin-bottom: 0px;
+}
+
+hr {
+    margin-top: 0px;
+    border-color: lightskyblue;
+}
+
+p {
+    margin-top: 0px;
+}
+
+.tudo {
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    border: solid 1px;
+}
+
+.linha {
+    clear: both;
+}
+
+.tituloDados {
+    color: lightskyblue;
+}
+
+.itens {
+    float: left;
+}
+
+#foto {
+    width: 30%;
+    float: left;
+    border-radius: 50%;
+}
+
+#img {
+    max-width: 150px;
+    max-height: 150px;
+    border-radius: 50%;
+    vertical-align: middle;
+}
+
+#contato {
+    width: 68%;
+    float: left;
+    text-align: left;
+    vertical-align: middle;
+    font-size: 20px;
+}
+
+#objetivos {
+    margin: 2%;
+    text-align: justify;
+}
+
+#formacao {
+    margin: 2%;
+    text-align: left;
+}
+
+#coluna1 {
+    width: 45%;
+    float: left;
+    text-align: left;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+#coluna2 {
+    float: left;
+    background-color: lightskyblue;
+    width: 1px;
+    height: 400px;
+}
+
+#coluna3 {
+    width: 45%;
+    float: left;
+    text-align: left;
+    margin-left: 2%;
+    margin-right: 2%;
+}
